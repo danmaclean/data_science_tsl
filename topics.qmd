@@ -1,3 +1,13 @@
 # Topics
 
-The topics we cover in this course are selected to be of the most use to you practically in your future science-related careers. They are delivered with a focus on the student becoming an informed and critical user of the tools rather than a domain specialist. The emphasis is on breadth and on the practical use of the skills discussed. 
+The topics we offer are selected to be of the most use to you practically in your research at TSL careers. 
+
+The selection ranges from getting to grips with the command line to getting practice in data science topics and 
+
+
+## Which should I choose??
+
+If you want to get started with command line to use the HPC or use the range of bioinformatics software then definitely look at the Intro to Command Line course. Otherwise the Data Exploration and Visualisation will be of great help in your day-to-day data analysis (especially that which comes out of command line programs). The fundamental topic is the Understanding Statistics with Linear Models which helps to show the linking thread between the statistical tools used in many data science and bioinformatics applications. The wider courses like Non-Frequentist Statistics and Machine Learning are excellent extensions that really power up the tool boxes and will let you get clearly at tricky data and big data sets. 
+
+They're all available all the time and the team are happy to discuss any aspect of them whenever, so feel free to try any and all.
+

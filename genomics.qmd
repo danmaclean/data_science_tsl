@@ -1,24 +1,23 @@
-# Introduction to Genomics
+# Introduction to Command Line
 
-Genomics is a big field with wide use within biology. On the Global Plant Health M.Sc you are going to learn about a lot of applications of genomics technologies and data science skills underpin _all_ of those applications and analysis. So in this first, foundational topic we will look at how to run a basic genomics SNP calling pipeline on the Linux command line. This will include developing the basic skills to use the computer from the command line.
 
+Getting started with using a command line (or 'shell') is the fundamental step in bioinformatics. This interface is the 'real' interface to a computer and lets you work massively more efficiently and on very big scales. It is also the only way to use the large HPC cluster and the many bioinformatics programs on there. So you're going to need this skill.
 
 
 ## The materials
 
-As a source for this we will follow the excellent Data Carpentry Genomics Curriculum [https://datacarpentry.org/lessons/#genomics-workshop](https://datacarpentry.org/lessons/#genomics-workshop). We will do the following two lessons
+This topic comprises the following courses. You may recognise some of it, as the first part follows the excellent Data Carpentry Shell Genomics Curriculum [https://datacarpentry.org/lessons/#genomics-workshop](https://datacarpentry.org/lessons/#genomics-workshop)
 
 
   1. [Shell Genomics](https://datacarpentry.org/shell-genomics/)
   2. [Data Wrangling and Processing for Genomics](https://datacarpentry.org/wrangling-genomics/)
-  
-We will also use these materials  
-  
-  3. [Genome, Transcriptome and Structural Databases](https://danmaclean.github.io/databases/)
+  3. [Introduction to Installing HPC Software with Singularity](https://bioinformatics.tsl.ac.uk/hpc/singularity/workshop/2022/04/24/hpc-singularity-workshop.html)
 
-## For you to do
 
-Parts 1 (Shell Genomics) and 2 (Data Wrangling) will be full contact time instructor led bootcamp courses. You should try reading the materials _before_ the course dates - it will help a great deal.
+## Delivery
 
-Part 3 is mostly an interactive tutorial, please work through that _before_ the scheduled discussion session in which we will go over as a group any questions and problems you may have had working through the materials.
+As these topics are the first that people generally need to do we deliver them as instructor-led bootcamps. It is however _always_ useful to read the materials provided before the course
 
+## Timetable
+
+Much of this is done on-demand, so if a course session isn't listed in a timeframe that you're comfortable with then contact Clara Jégousse or George Deeks for information. In many instances we'll be able to sort a session soon.

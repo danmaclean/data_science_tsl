@@ -1,9 +1,9 @@
-# How to Learn With This Course {.unnumbered}
+# How To Use These Courses {.unnumbered}
 
 
 ## Session types
 
-The topics in this course will be delivered in one of three ways: 
+The topics are delivered in one of three ways: 
 
   1. Bootcamp
   2. Flipped classroom

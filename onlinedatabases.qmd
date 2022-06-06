@@ -1,0 +1,7 @@
+# Online Databases
+
+
+There are a great number of excellent online resources in genomics, transcriptomics and structual biology. However, some of them can be a bit opaque to use. This self-led online tutorial will lead you through the fundamentals of using some of the most powerful - but confusing instances.
+
+  
+  1. [Genome, Transcriptome and Structural Databases](https://danmaclean.github.io/databases/)
