@@ -1,7 +1,6 @@
 # Data Science and Bioinformatics 
 
-A course in data science and computing skills as part of The Sainsbury Laboratory MSc in Global Plant Health.
-
+Stuff for TSL Training internal
 
 ## Topics
 
