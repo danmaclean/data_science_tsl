@@ -14,7 +14,7 @@ That's great! To get an account, email George Deeks and he'll initiate that for 
 :::{.callout-important}
 ## Uh - I want to use the HPC but don't have command line experience yet.
 
-That's great too, seek out Clara Jégousse and her Intro to Command Line course, this will give you the skills on working at the command line. Once you've got the basics you'll be good to use the HPC.
+That's great too, seek out Alison MacFadyen and her Intro to Command Line course, this will give you the skills on working at the command line. Once you've got the basics you'll be good to use the HPC.
 :::
 
 ## Course Delivery

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "TSL Bioinformatics Training",
     "section": "",
-    "text": "Welcome to the TSL Bioinformatics Training Website.\nIn here you will find links to the written content for each of the separate topics covered as well as the descriptions of the courses and a guide to helping you work out what you need.\n\n\n\n\n\n\nWait - I just want to use the HPC.\n\n\n\nThat’s great! To get an account, email George Deeks and he’ll initiate that for you. There’s a short induction with George that is compulsory - it aims to help you work out where everything is and acts as a refresher. If you’re already capable at the command line it takes about 30 minutes.\n\n\n\n\n\n\n\n\nUh - I want to use the HPC but don’t have command line experience yet.\n\n\n\nThat’s great too, seek out Clara Jégousse and her Intro to Command Line course, this will give you the skills on working at the command line. Once you’ve got the basics you’ll be good to use the HPC.\n\n\n\n\nBioinformatics and Data Science comprise a set of practical research skills grounded in statistics and computer science. Learning a practical skill requires practice! So these courses are not lecture courses, they are a mixture of ‘flipped’ classroom courses and bootcamp style courses each with a very strong practical component. In this framework the onus is on the learner to lead their work and practice with the provided materials prior to contact and discussion time with the wider learning group and group mentors. Contact time will then be an opportunity to discuss the materials and any problems arising with the group and the teacher and to practice and problem solve with others. The aim is that you will have a strong practical grounding in using bioinformatics and data science approaches to research problems that will enhance the biology that you are doing.\n\n\n\nThe rest of this site outlines the online materials provided, broken down by the separate topics we cover. The materials contain a mixture of self-led tutorials and interactive challenges or problems to solve.\n\n\n\nMost of the topics outline the stuff you will need to install. Sometimes this is fiddly and sometimes it just doesn’t work (and often when it doesn’t work it isn’t because you did something wrong). If you don’t feel confident or are having problems see George Deeks and Chris Rickett for help\n\n\n\nThe following topics are covered in our training\n1. Introduction to Bioinformatics on the Command-Line and HPC\n2. Introduction to Online Databases\n3. Data Exploration and Visualisation\n4. Understanding Statistics With Linear Models\n5. Introduction to Non-Frequentist Statistics\n6. Introduction to Machine Learning\n7. Beginning Programming\n8. Literate Computation\nNone of them are compulsory, all are open to everyone.\n\n\n\n\n\n\nCohorts\n\n\n\nWe provide our sessions to each TSL cohort separately - meaning that we generally host separate workshops for Students and Post Docs to reflect the different needs and interests of the different groups. If you’re not sure which cohort you should go to, ask us. It may be that we need to organise something specific for you.\n\n\n\n\n\n\n\n\n\n\n\n  \n    \n      Upcoming sessions\n    \n    \n  \n  \n    \n      Session\n      Date\n      Cohort\n      Type\n      Start Time\n      Location\n      Lead\n    \n  \n  \n    Data Exploration and Visualisation\nTuesday, July 5, 2022\nPD\nFlipped Class Workshop Session\n1330\nG72\nDan\n    Data Exploration and Visualisation\nFriday, July 8, 2022\nStu\nFlipped Class Workshop Session\n1330\nG72\nDan\n    Stats with Linear Models\nTuesday, August 16, 2022\nPD\nFlipped Class Workshop Session\n1330\nG72\nDan\n    Stats with Linear Models\nThursday, August 18, 2022\nStu\nFlipped Class Workshop Session\n1330\nG72\nDan\n    Other Topics\nTuesday, September 13, 2022\nPD\nFlipped Class Workshop Session\n1330\nG72\nDan\n    Other Topics\nThursday, September 15, 2022\nStu\nFlipped Class Workshop Session\n1330\nG72\nDan"
+    "text": "About\nWelcome to the TSL Bioinformatics Training Website.\nIn here you will find links to the written content for each of the separate topics covered as well as the descriptions of the courses and a guide to helping you work out what you need."
   },
   {
     "objectID": "flippedclass.html",
@@ -81,7 +81,7 @@
     "href": "onlinedatabases.html",
     "title": "2  Online Databases",
     "section": "",
-    "text": "Genome, Transcriptome and Structural Databases"
+    "text": "There are a great number of excellent online resources in genomics, transcriptomics and structual biology. However, some of them can be a bit opaque to use. This self-led online tutorial will lead you through the fundamentals of using some of the most powerful - but confusing instances.\n\nGenome, Transcriptome and Structural Databases"
   },
   {
     "objectID": "dataviz.html",
@@ -208,5 +208,47 @@
     "title": "8  Literate Computation",
     "section": "8.2 For you to do",
     "text": "8.2 For you to do\nThese topics will be delivered flipped classroom-style. That means they are led by you and you have the responsibility for doing the reading prior to coming to the session. You will absolutely need to devote time and work through the materials on your own and bring any questions and queries that you have to the scheduled session for the topics."
+  },
+  {
+    "objectID": "index.html#course-delivery",
+    "href": "index.html#course-delivery",
+    "title": "TSL Bioinformatics Training",
+    "section": "Course Delivery",
+    "text": "Course Delivery\nBioinformatics and Data Science comprise a set of practical research skills grounded in statistics and computer science. Learning a practical skill requires practice! So these courses are not lecture courses, they are a mixture of ‘flipped’ classroom courses and bootcamp style courses each with a very strong practical component. In this framework the onus is on the learner to lead their work and practice with the provided materials prior to contact and discussion time with the wider learning group and group mentors. Contact time will then be an opportunity to discuss the materials and any problems arising with the group and the teacher and to practice and problem solve with others. The aim is that you will have a strong practical grounding in using bioinformatics and data science approaches to research problems that will enhance the biology that you are doing."
+  },
+  {
+    "objectID": "index.html#online-materials",
+    "href": "index.html#online-materials",
+    "title": "TSL Bioinformatics Training",
+    "section": "Online Materials",
+    "text": "Online Materials\nThe rest of this site outlines the online materials provided, broken down by the separate topics we cover. The materials contain a mixture of self-led tutorials and interactive challenges or problems to solve."
+  },
+  {
+    "objectID": "index.html#installation-of-software-and-tools",
+    "href": "index.html#installation-of-software-and-tools",
+    "title": "TSL Bioinformatics Training",
+    "section": "Installation of software and tools",
+    "text": "Installation of software and tools\nMost of the topics outline the stuff you will need to install. Sometimes this is fiddly and sometimes it just doesn’t work (and often when it doesn’t work it isn’t because you did something wrong). If you don’t feel confident or are having problems see George Deeks and Chris Rickett for help"
+  },
+  {
+    "objectID": "index.html#topics",
+    "href": "index.html#topics",
+    "title": "TSL Bioinformatics Training",
+    "section": "Topics",
+    "text": "Topics\nThe following topics are covered in our training\n1. Introduction to Bioinformatics on the Command-Line and HPC\n2. Introduction to Online Databases\n3. Data Exploration and Visualisation\n4. Understanding Statistics With Linear Models\n5. Introduction to Non-Frequentist Statistics\n6. Introduction to Machine Learning\n7. Beginning Programming\n8. Literate Computation\nNone of them are compulsory, all are open to everyone.\n\n\n\n\n\n\nCohorts\n\n\n\nWe provide our sessions to each TSL cohort separately - meaning that we generally host separate workshops for Students and Post Docs to reflect the different needs and interests of the different groups. If you’re not sure which cohort you should go to, ask us. It may be that we need to organise something specific for you."
+  },
+  {
+    "objectID": "index.html#upcoming-sessions",
+    "href": "index.html#upcoming-sessions",
+    "title": "TSL Bioinformatics Training",
+    "section": "Upcoming sessions",
+    "text": "Upcoming sessions\n\n\n\n\n\n\n  \n    \n      Upcoming sessions\n    \n    \n    \n      Session\n      Date\n      Cohort\n      Type\n      Start Time\n      Location\n      Lead\n    \n  \n  \n    Data Exploration and Visualisation\n2022-07-05\nPD\nFlipped Class Workshop Session\n1330\nG72\nDan\n    Data Exploration and Visualisation\n2022-07-08\nStu\nFlipped Class Workshop Session\n1330\nG72\nDan\n    Stats with Linear Models\n2022-08-16\nPD\nFlipped Class Workshop Session\n1330\nG72\nDan\n    Stats with Linear Models\n2022-08-18\nStu\nFlipped Class Workshop Session\n1330\nG72\nDan\n    Other Topics\n2022-09-13\nPD\nFlipped Class Workshop Session\n1330\nG72\nDan\n    Other Topics\n2022-09-15\nStu\nFlipped Class Workshop Session\n1330\nG72\nDan"
+  },
+  {
+    "objectID": "flippedclass.html#session-types",
+    "href": "flippedclass.html#session-types",
+    "title": "How To Use These Courses",
+    "section": "Session types",
+    "text": "Session types\nThe topics are delivered in one of three ways:\n\nBootcamp\nFlipped classroom\nOnline tutorial\n\nEach type of class has a different emphasis and approach regardless of the topic under study.\n\nBootcamp\nThe bootcamp style class is an instructor led practical session. You will be expected to follow an instructor who is teaching and live coding from the front of the class. This is not a lecture where you take notes - its a computer class where you work concurrently with the instructor as they exemplify the skills you will need to learn to use. Much more like a cookery class than a university lecture, the session proceeds with the instructor demonstrating how to do a specific computer-based skill and you try it out immediately. It is very, very useful to take the opportunity to read the materials for bootcamps before the session. Learning from this style requires you to be alert and engaged with the material in the session, not least you should put effort into joining in and being part of the group. Be prepared to make mistakes and be at peace with not knowing yet and being on a journey of learning. Sitting back and hoping to catch up with it later in your own time will put you behind and waste the opportunity of the session.\n\n\nFlipped classroom\nThe ‘flipped’ classroom style here is one in which the reading is done by the student before the session. This gives time for reflection and understanding of the concepts such that they can be applied to solve the problem sets that come up in the session. The instructor will not conduct a comprehensive overview of the materials during the session, instead they will concentrate on issues arising in the application of the concepts. If you have not done the reading before the session then you will be behind from the start of the session and you will miss out on the opportunity. Learning from this style is requires you to lead and take responsibility for the learning before class and to work to apply the theoretical knowledge in the practical session.\n\n\nOnline tutorial\nThe most traditional style of session will be the online tutorial in which you will work through an online guide with embedded quizzes and questions on a particular topic. The materials will be provided in the session. Learning from this style of session requires you to be thinking through the questions and reasoning to work out the answers with the materials provided."
   }
 ]

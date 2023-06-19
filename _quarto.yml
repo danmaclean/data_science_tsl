@@ -5,7 +5,7 @@ project:
 book:
   title: "TSL Bioinformatics Training"
   author: "Dan MacLean"
-  date: "June 2022"
+  date: "June 2023"
   search: true
   downloads: [pdf, epub]
   sharing: [twitter, facebook]
