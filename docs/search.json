@@ -4,251 +4,372 @@
     "href": "index.html",
     "title": "TSL Bioinformatics Training",
     "section": "",
-    "text": "About\nWelcome to the TSL Bioinformatics Training Website.\nIn here you will find links to the written content for each of the separate topics covered as well as the descriptions of the courses and a guide to helping you work out what you need."
-  },
-  {
-    "objectID": "flippedclass.html",
-    "href": "flippedclass.html",
-    "title": "How To Use These Courses",
-    "section": "",
-    "text": "The topics are delivered in one of three ways:\n\nBootcamp\nFlipped classroom\nOnline tutorial\n\nEach type of class has a different emphasis and approach regardless of the topic under study.\n\n\nThe bootcamp style class is an instructor led practical session. You will be expected to follow an instructor who is teaching and live coding from the front of the class. This is not a lecture where you take notes - its a computer class where you work concurrently with the instructor as they exemplify the skills you will need to learn to use. Much more like a cookery class than a university lecture, the session proceeds with the instructor demonstrating how to do a specific computer-based skill and you try it out immediately. It is very, very useful to take the opportunity to read the materials for bootcamps before the session. Learning from this style requires you to be alert and engaged with the material in the session, not least you should put effort into joining in and being part of the group. Be prepared to make mistakes and be at peace with not knowing yet and being on a journey of learning. Sitting back and hoping to catch up with it later in your own time will put you behind and waste the opportunity of the session.\n\n\n\nThe ‘flipped’ classroom style here is one in which the reading is done by the student before the session. This gives time for reflection and understanding of the concepts such that they can be applied to solve the problem sets that come up in the session. The instructor will not conduct a comprehensive overview of the materials during the session, instead they will concentrate on issues arising in the application of the concepts. If you have not done the reading before the session then you will be behind from the start of the session and you will miss out on the opportunity. Learning from this style is requires you to lead and take responsibility for the learning before class and to work to apply the theoretical knowledge in the practical session.\n\n\n\nThe most traditional style of session will be the online tutorial in which you will work through an online guide with embedded quizzes and questions on a particular topic. The materials will be provided in the session. Learning from this style of session requires you to be thinking through the questions and reasoning to work out the answers with the materials provided."
-  },
-  {
-    "objectID": "flippedclass.html#note-taking",
-    "href": "flippedclass.html#note-taking",
-    "title": "How To Use These Courses",
-    "section": "Note-taking",
-    "text": "Note-taking\nThe website of the course is connected to the online note-taking system hypothes.is. If you have an account there and are logged in you’ll be able to add highlights, notes and comments that you will see in the web page itself. You can also make and join groups to share notes."
-  },
-  {
-    "objectID": "flippedclass.html#jonk",
-    "href": "flippedclass.html#jonk",
-    "title": "How To Use These Courses",
-    "section": "JONK",
-    "text": "JONK\nFor all learning you should embrace JONK - ‘Joy of Not Knowing’ (Staricoff 2020). Although you are at least a Post-Grad there are still a lot of things and skills to learn and you will spend a lot of time confused. This is fine. And expected, and a necessary part of learning - if it was easy you wouldn’t be learning anything. Over and over again you’ll fall into the metaphorical ‘Learning Pit’ (Nottingham 2015) and through working at a problem sincerely with a view to understanding you’ll reach real success - a good understanding of the topics you are learning about.\n\n\n\n\n\nArtwork from James Nottingham - https://www.challenginglearning.com\n\n\n\n\n\nThe dark side\nLots of people want to use data science and statistics so lots of other people publish blog posts and tutorials on those topics on the internet. A quick google will lead you to how-to’s in briefer and shallower form than this course. Be wary of taking these as an answer, although they aren’t wrong per se, the useful and particular ways of thinking about data science that this course is aimed at helping you understand are not so often developed in the quick online tutorials. They can help you with an immediate coding problem, it can take a very long time to develop broad and flexible understanding of data science through just looking stuff up on the internet and applying them until they seem to work. This dark side is quick, easy and seductive but won’t bring you a good understanding. Take your time and work through the details and you’ll emerge with a much more adaptable and applicable set of skills."
-  },
-  {
-    "objectID": "flippedclass.html#references",
-    "href": "flippedclass.html#references",
-    "title": "How To Use These Courses",
-    "section": "References",
-    "text": "References\n\n\n\n\nNottingham, James A. 2015. Challenging Learning. Routledge.\n\n\nStaricoff, Marcelo. 2020. The Joy of Not Knowing. Routledge."
-  },
-  {
-    "objectID": "topics.html",
-    "href": "topics.html",
-    "title": "Topics",
-    "section": "",
-    "text": "The topics we offer are selected to be of the most use to you practically in your research at TSL careers.\nThe selection ranges from getting to grips with the command line to getting practice in data science topics and"
-  },
-  {
-    "objectID": "topics.html#which-should-i-choose",
-    "href": "topics.html#which-should-i-choose",
-    "title": "Topics",
-    "section": "Which should I choose??",
-    "text": "Which should I choose??\nIf you want to get started with command line to use the HPC or use the range of bioinformatics software then definitely look at the Intro to Command Line course. Otherwise the Data Exploration and Visualisation will be of great help in your day-to-day data analysis (especially that which comes out of command line programs). The fundamental topic is the Understanding Statistics with Linear Models which helps to show the linking thread between the statistical tools used in many data science and bioinformatics applications. The wider courses like Non-Frequentist Statistics and Machine Learning are excellent extensions that really power up the tool boxes and will let you get clearly at tricky data and big data sets.\nThey’re all available all the time and the team are happy to discuss any aspect of them whenever, so feel free to try any and all."
-  },
-  {
-    "objectID": "genomics.html",
-    "href": "genomics.html",
-    "title": "1  Introduction to Command Line",
-    "section": "",
-    "text": "Getting started with using a command line (or ‘shell’) is the fundamental step in bioinformatics. This interface is the ‘real’ interface to a computer and lets you work massively more efficiently and on very big scales. It is also the only way to use the large HPC cluster and the many bioinformatics programs on there. So you’re going to need this skill."
-  },
-  {
-    "objectID": "genomics.html#the-materials",
-    "href": "genomics.html#the-materials",
-    "title": "1  Introduction to Command Line",
-    "section": "1.1 The materials",
-    "text": "1.1 The materials\nThis topic comprises the following courses. You may recognise some of it, as the first part follows the excellent Data Carpentry Shell Genomics Curriculum https://datacarpentry.org/lessons/#genomics-workshop\n\nShell Genomics\nData Wrangling and Processing for Genomics\nIntroduction to Installing HPC Software with Singularity"
-  },
-  {
-    "objectID": "genomics.html#delivery",
-    "href": "genomics.html#delivery",
-    "title": "1  Introduction to Command Line",
-    "section": "1.2 Delivery",
-    "text": "1.2 Delivery\nAs these topics are the first that people generally need to do we deliver them as instructor-led bootcamps. It is however always useful to read the materials provided before the course"
-  },
-  {
-    "objectID": "genomics.html#timetable",
-    "href": "genomics.html#timetable",
-    "title": "1  Introduction to Command Line",
-    "section": "1.3 Timetable",
-    "text": "1.3 Timetable\nMuch of this is done on-demand, so if a course session isn’t listed in a timeframe that you’re comfortable with then contact Clara Jégousse or George Deeks for information. In many instances we’ll be able to sort a session soon."
-  },
-  {
-    "objectID": "onlinedatabases.html",
-    "href": "onlinedatabases.html",
-    "title": "2  Online Databases",
-    "section": "",
-    "text": "There are a great number of excellent online resources in genomics, transcriptomics and structual biology. However, some of them can be a bit opaque to use. This self-led online tutorial will lead you through the fundamentals of using some of the most powerful - but confusing instances.\n\nGenome, Transcriptome and Structural Databases"
-  },
-  {
-    "objectID": "dataviz.html",
-    "href": "dataviz.html",
-    "title": "3  Data Exploration and Visualisation",
-    "section": "",
-    "text": "Data exploration and visualisation is the first step in most analyses and the R statistical computing environment is a great tool to work with.\nIn this topic we will explore techniques in R that allow us answer research questions of our data in a way that follows consistent and straightforward principles. We will learn a data format for keeping our research data organised so that we can readily apply all sorts of useful tools to it. We will also learn a grammar of plots that will allow us to make informative and clear figures. By the end of this you will be comfortable with using R to summarise and work with data frames and create a wide range of plots."
-  },
-  {
-    "objectID": "dataviz.html#the-materials",
-    "href": "dataviz.html#the-materials",
-    "title": "3  Data Exploration and Visualisation",
-    "section": "3.1 The materials",
-    "text": "3.1 The materials\nFor this topic we will use these courses\n\nUsing dplyr for data analysis\nUsing ggplot2 for producing quality plots"
-  },
-  {
-    "objectID": "dataviz.html#for-you-to-do",
-    "href": "dataviz.html#for-you-to-do",
-    "title": "3  Data Exploration and Visualisation",
-    "section": "3.2 For you to do",
-    "text": "3.2 For you to do\nThese topics will be delivered flipped classroom-style. That means they are led by you and you have the responsibility for doing the reading prior to coming to the session. You will absolutely need to devote time and work through the materials on your own and bring any questions and queries that you have to the scheduled session for the topics."
-  },
-  {
-    "objectID": "stats.html",
-    "href": "stats.html",
-    "title": "4  Understanding Statistics With Linear Models",
-    "section": "",
-    "text": "In this topic we will take a look at common statistical methods. Rather than launch into a long list of tests and conditions for use we will take advantage of the fact that they are all special cases of a simple tool called a linear model. We will learn about linear models and how to use them to carry out statistical inference. By the end of this topic you will have a clear understanding of how and why to use a linear model in R to carry out most tests and comparisons."
-  },
-  {
-    "objectID": "stats.html#the-materials",
-    "href": "stats.html#the-materials",
-    "title": "4  Understanding Statistics With Linear Models",
-    "section": "4.1 The materials",
-    "text": "4.1 The materials\nFor this topic we will use this course\n\nUnderstanding Statistical Thinking With Linear Models"
-  },
-  {
-    "objectID": "stats.html#for-you-to-do",
-    "href": "stats.html#for-you-to-do",
-    "title": "4  Understanding Statistics With Linear Models",
-    "section": "4.2 For you to do",
-    "text": "4.2 For you to do\nThese topics will be delivered flipped classroom-style. That means they are led by you and you have the responsibility for doing the reading prior to coming to the session. You will absolutely need to devote time and work through the materials on your own and bring any questions and queries that you have to the scheduled session for the topics."
-  },
-  {
-    "objectID": "nonfreq.html",
-    "href": "nonfreq.html",
-    "title": "5  Introduction to Non-Frequentist Statistics",
-    "section": "",
-    "text": "In this topic we will take a look at alternatives to the standard statistical testing tools and models and learn how to make inferences from our data without tests. We will learn to abandon the \\(p\\)-value as a final arbiter of decision making and see that it is not the only statistic that matters. We will look at using Bayesian inference to make comparisons of hypotheses about our data. By the end of this course you will be able to use and interpret standardised effect sizes and create confidence intervals and estimation plots in R. You will be able to use and interpret Bayesian versions of some common statistical tests"
-  },
-  {
-    "objectID": "nonfreq.html#the-materials",
-    "href": "nonfreq.html#the-materials",
-    "title": "5  Introduction to Non-Frequentist Statistics",
-    "section": "5.1 The materials",
-    "text": "5.1 The materials\nFor this topic we will use these courses\n\nEstimation Statistics\nBayesian Inference with Bayes Factors"
-  },
-  {
-    "objectID": "nonfreq.html#for-you-to-do",
-    "href": "nonfreq.html#for-you-to-do",
-    "title": "5  Introduction to Non-Frequentist Statistics",
-    "section": "5.2 For you to do",
-    "text": "5.2 For you to do\nThese topics will be delivered flipped classroom-style. That means they are led by you and you have the responsibility for doing the reading prior to coming to the session. You will absolutely need to devote time and work through the materials on your own and bring any questions and queries that you have to the scheduled session for the topics."
-  },
-  {
-    "objectID": "ml.html",
-    "href": "ml.html",
-    "title": "6  Introduction to Machine Learning",
-    "section": "",
-    "text": "In this topic we will look at algorithms for performing machine learning as a way of classifying data into groups of similar or dissimilar items. We will use supervised and unsupervised methods in R. We will also study and use some deep learning methods. By the end of this course you will have an understanding of how and when to use classical machine learning in your research and an appreciation of what deep learning methods can achieve and their limitations."
-  },
-  {
-    "objectID": "ml.html#the-materials",
-    "href": "ml.html#the-materials",
-    "title": "6  Introduction to Machine Learning",
-    "section": "6.1 The materials",
-    "text": "6.1 The materials\nFor this topic we will use these courses\n\nIntroduction to Machine Learning"
-  },
-  {
-    "objectID": "ml.html#for-you-to-do",
-    "href": "ml.html#for-you-to-do",
-    "title": "6  Introduction to Machine Learning",
-    "section": "6.2 For you to do",
-    "text": "6.2 For you to do\nThese topics will be delivered flipped classroom-style. That means they are led by you and you have the responsibility for doing the reading prior to coming to the session. You will absolutely need to devote time and work through the materials on your own and bring any questions and queries that you have to the scheduled session for the topics."
-  },
-  {
-    "objectID": "python.html",
-    "href": "python.html",
-    "title": "7  Beginning Programming",
-    "section": "",
-    "text": "Programming is an essential but tricky tool to master for all data scientists. Code comes in many guises and in this course up to now we’ve been writing code for specific tasks with a clear and present idea of what we want to get done. General programming concepts often seem less useful because of their generality, so in this topic we will study the general concepts that will allow us to program in most problem domains. We will introduce the central concepts of programming and learn to use the implementations of them in the Python general purpose programming language. At the end of this topic you will be aware of the most important concepts in programming and how to use them in Python."
-  },
-  {
-    "objectID": "python.html#the-materials",
-    "href": "python.html#the-materials",
-    "title": "7  Beginning Programming",
-    "section": "7.1 The materials",
-    "text": "7.1 The materials\nFor this topic we will use these courses\n\nA tao of programming\nBeginning programming with Python"
-  },
-  {
-    "objectID": "python.html#for-you-to-do",
-    "href": "python.html#for-you-to-do",
-    "title": "7  Beginning Programming",
-    "section": "7.2 For you to do",
-    "text": "7.2 For you to do\nPart 1 (A tao of programming) will be delivered as a full contact instructor led-session. You should come to the scheduled session.\nPart 2 (Beginning programming with Python) will be delivered flipped classroom-style. That means it is led by you and you have the responsibility for doing the reading prior to coming to the session. You will absolutely need to devote time and work through the materials on your own and bring any questions and queries that you have to the scheduled session for the topics."
-  },
-  {
-    "objectID": "literacy.html",
-    "href": "literacy.html",
-    "title": "8  Literate Computation",
-    "section": "",
-    "text": "Sitting at a computer and typing commands is only of limited fun. Wrapping commands in scripts is a great way to re-do an analysis without having to type everything in again. But scripts are for computers to read, not humans, so understanding and interpreting an analysis rendered as code alone is not good for general understanding. In this course we’ll look at tools and techniques for Literate Computation, a mixing of code, results and human language that results in easily understood executable and re-useable analysis documents. We will also look at tools and strategies for sharing and getting credit for your code and analysis. At the end of this topic you will have a good understanding of how to construct reproducible, reusable and readable analysis documents and how to share them online."
-  },
-  {
-    "objectID": "literacy.html#the-materials",
-    "href": "literacy.html#the-materials",
-    "title": "8  Literate Computation",
-    "section": "8.1 The materials",
-    "text": "8.1 The materials\nFor this topic we will use this course:\n\nLiterate Computing"
-  },
-  {
-    "objectID": "literacy.html#for-you-to-do",
-    "href": "literacy.html#for-you-to-do",
-    "title": "8  Literate Computation",
-    "section": "8.2 For you to do",
-    "text": "8.2 For you to do\nThese topics will be delivered flipped classroom-style. That means they are led by you and you have the responsibility for doing the reading prior to coming to the session. You will absolutely need to devote time and work through the materials on your own and bring any questions and queries that you have to the scheduled session for the topics."
+    "text": "About\nWelcome to the TSL Bioinformatics Training Website.\nIn here you will find links to the written content for each of the separate topics covered as well as the descriptions of the courses and a guide to helping you work out what you need.",
+    "crumbs": [
+      "About"
+    ]
   },
   {
     "objectID": "index.html#course-delivery",
     "href": "index.html#course-delivery",
     "title": "TSL Bioinformatics Training",
     "section": "Course Delivery",
-    "text": "Course Delivery\nBioinformatics and Data Science comprise a set of practical research skills grounded in statistics and computer science. Learning a practical skill requires practice! So these courses are not lecture courses, they are a mixture of ‘flipped’ classroom courses and bootcamp style courses each with a very strong practical component. In this framework the onus is on the learner to lead their work and practice with the provided materials prior to contact and discussion time with the wider learning group and group mentors. Contact time will then be an opportunity to discuss the materials and any problems arising with the group and the teacher and to practice and problem solve with others. The aim is that you will have a strong practical grounding in using bioinformatics and data science approaches to research problems that will enhance the biology that you are doing."
+    "text": "Course Delivery\nBioinformatics and Data Science comprise a set of practical research skills grounded in statistics and computer science. Learning a practical skill requires practice! So these courses are not lecture courses, they are a mixture of ‘flipped’ classroom courses and bootcamp style courses each with a very strong practical component. In this framework the onus is on the learner to lead their work and practice with the provided materials prior to contact and discussion time with the wider learning group and group mentors. Contact time will then be an opportunity to discuss the materials and any problems arising with the group and the teacher and to practice and problem solve with others. The aim is that you will have a strong practical grounding in using bioinformatics and data science approaches to research problems that will enhance the biology that you are doing.",
+    "crumbs": [
+      "About"
+    ]
   },
   {
     "objectID": "index.html#online-materials",
     "href": "index.html#online-materials",
     "title": "TSL Bioinformatics Training",
     "section": "Online Materials",
-    "text": "Online Materials\nThe rest of this site outlines the online materials provided, broken down by the separate topics we cover. The materials contain a mixture of self-led tutorials and interactive challenges or problems to solve."
+    "text": "Online Materials\nThe rest of this site outlines the online materials provided, broken down by the separate topics we cover. The materials contain a mixture of self-led tutorials and interactive challenges or problems to solve.",
+    "crumbs": [
+      "About"
+    ]
   },
   {
     "objectID": "index.html#installation-of-software-and-tools",
     "href": "index.html#installation-of-software-and-tools",
     "title": "TSL Bioinformatics Training",
     "section": "Installation of software and tools",
-    "text": "Installation of software and tools\nMost of the topics outline the stuff you will need to install. Sometimes this is fiddly and sometimes it just doesn’t work (and often when it doesn’t work it isn’t because you did something wrong). If you don’t feel confident or are having problems see George Deeks and Chris Rickett for help"
+    "text": "Installation of software and tools\nMost of the topics outline the stuff you will need to install. Sometimes this is fiddly and sometimes it just doesn’t work (and often when it doesn’t work it isn’t because you did something wrong). If you don’t feel confident or are having problems see George Deeks and Chris Rickett for help",
+    "crumbs": [
+      "About"
+    ]
   },
   {
     "objectID": "index.html#topics",
     "href": "index.html#topics",
     "title": "TSL Bioinformatics Training",
     "section": "Topics",
-    "text": "Topics\nThe following topics are covered in our training\n1. Introduction to Bioinformatics on the Command-Line and HPC\n2. Introduction to Online Databases\n3. Data Exploration and Visualisation\n4. Understanding Statistics With Linear Models\n5. Introduction to Non-Frequentist Statistics\n6. Introduction to Machine Learning\n7. Beginning Programming\n8. Literate Computation\nNone of them are compulsory, all are open to everyone.\n\n\n\n\n\n\nCohorts\n\n\n\nWe provide our sessions to each TSL cohort separately - meaning that we generally host separate workshops for Students and Post Docs to reflect the different needs and interests of the different groups. If you’re not sure which cohort you should go to, ask us. It may be that we need to organise something specific for you."
+    "text": "Topics\nThe following topics are covered in our training\n1. Introduction to Bioinformatics on the Command-Line and HPC\n2. Introduction to Online Databases\n3. Data Exploration and Visualisation\n4. Understanding Statistics With Linear Models\n5. Introduction to Non-Frequentist Statistics\n6. Introduction to Machine Learning\n7. Beginning Programming\n8. Literate Computation\nNone of them are compulsory, all are open to everyone.\n\n\n\n\n\n\nCohorts\n\n\n\nWe provide our sessions to each TSL cohort separately - meaning that we generally host separate workshops for Students and Post Docs to reflect the different needs and interests of the different groups. If you’re not sure which cohort you should go to, ask us. It may be that we need to organise something specific for you.",
+    "crumbs": [
+      "About"
+    ]
   },
   {
     "objectID": "index.html#upcoming-sessions",
     "href": "index.html#upcoming-sessions",
     "title": "TSL Bioinformatics Training",
     "section": "Upcoming sessions",
-    "text": "Upcoming sessions\n\n\n\n\n\n\n  \n    \n      Upcoming sessions\n    \n    \n    \n      Session\n      Date\n      Cohort\n      Type\n      Start Time\n      Location\n      Lead\n    \n  \n  \n    Data Exploration and Visualisation\n2022-07-05\nPD\nFlipped Class Workshop Session\n1330\nG72\nDan\n    Data Exploration and Visualisation\n2022-07-08\nStu\nFlipped Class Workshop Session\n1330\nG72\nDan\n    Stats with Linear Models\n2022-08-16\nPD\nFlipped Class Workshop Session\n1330\nG72\nDan\n    Stats with Linear Models\n2022-08-18\nStu\nFlipped Class Workshop Session\n1330\nG72\nDan\n    Other Topics\n2022-09-13\nPD\nFlipped Class Workshop Session\n1330\nG72\nDan\n    Other Topics\n2022-09-15\nStu\nFlipped Class Workshop Session\n1330\nG72\nDan"
+    "text": "Upcoming sessions\n\n\n\n\n\n\n\n\nUpcoming sessions\n\n\nSession\nDate\nCohort\nType\nStart Time\nLocation\nLead\n\n\n\n\nData Exploration and Visualisation\n2022-07-05\nPD\nFlipped Class Workshop Session\n1330\nG72\nDan\n\n\nData Exploration and Visualisation\n2022-07-08\nStu\nFlipped Class Workshop Session\n1330\nG72\nDan\n\n\nStats with Linear Models\n2022-08-16\nPD\nFlipped Class Workshop Session\n1330\nG72\nDan\n\n\nStats with Linear Models\n2022-08-18\nStu\nFlipped Class Workshop Session\n1330\nG72\nDan\n\n\nOther Topics\n2022-09-13\nPD\nFlipped Class Workshop Session\n1330\nG72\nDan\n\n\nOther Topics\n2022-09-15\nStu\nFlipped Class Workshop Session\n1330\nG72\nDan",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "flippedclass.html",
+    "href": "flippedclass.html",
+    "title": "How To Use These Courses",
+    "section": "",
+    "text": "Session types\nThe topics are delivered in one of three ways:\nEach type of class has a different emphasis and approach regardless of the topic under study.",
+    "crumbs": [
+      "How To Use These Courses"
+    ]
   },
   {
     "objectID": "flippedclass.html#session-types",
     "href": "flippedclass.html#session-types",
     "title": "How To Use These Courses",
-    "section": "Session types",
-    "text": "Session types\nThe topics are delivered in one of three ways:\n\nBootcamp\nFlipped classroom\nOnline tutorial\n\nEach type of class has a different emphasis and approach regardless of the topic under study.\n\nBootcamp\nThe bootcamp style class is an instructor led practical session. You will be expected to follow an instructor who is teaching and live coding from the front of the class. This is not a lecture where you take notes - its a computer class where you work concurrently with the instructor as they exemplify the skills you will need to learn to use. Much more like a cookery class than a university lecture, the session proceeds with the instructor demonstrating how to do a specific computer-based skill and you try it out immediately. It is very, very useful to take the opportunity to read the materials for bootcamps before the session. Learning from this style requires you to be alert and engaged with the material in the session, not least you should put effort into joining in and being part of the group. Be prepared to make mistakes and be at peace with not knowing yet and being on a journey of learning. Sitting back and hoping to catch up with it later in your own time will put you behind and waste the opportunity of the session.\n\n\nFlipped classroom\nThe ‘flipped’ classroom style here is one in which the reading is done by the student before the session. This gives time for reflection and understanding of the concepts such that they can be applied to solve the problem sets that come up in the session. The instructor will not conduct a comprehensive overview of the materials during the session, instead they will concentrate on issues arising in the application of the concepts. If you have not done the reading before the session then you will be behind from the start of the session and you will miss out on the opportunity. Learning from this style is requires you to lead and take responsibility for the learning before class and to work to apply the theoretical knowledge in the practical session.\n\n\nOnline tutorial\nThe most traditional style of session will be the online tutorial in which you will work through an online guide with embedded quizzes and questions on a particular topic. The materials will be provided in the session. Learning from this style of session requires you to be thinking through the questions and reasoning to work out the answers with the materials provided."
+    "section": "",
+    "text": "Bootcamp\nFlipped classroom\nOnline tutorial\n\n\n\nBootcamp\nThe bootcamp style class is an instructor led practical session. You will be expected to follow an instructor who is teaching and live coding from the front of the class. This is not a lecture where you take notes - its a computer class where you work concurrently with the instructor as they exemplify the skills you will need to learn to use. Much more like a cookery class than a university lecture, the session proceeds with the instructor demonstrating how to do a specific computer-based skill and you try it out immediately. It is very, very useful to take the opportunity to read the materials for bootcamps before the session. Learning from this style requires you to be alert and engaged with the material in the session, not least you should put effort into joining in and being part of the group. Be prepared to make mistakes and be at peace with not knowing yet and being on a journey of learning. Sitting back and hoping to catch up with it later in your own time will put you behind and waste the opportunity of the session.\n\n\nFlipped classroom\nThe ‘flipped’ classroom style here is one in which the reading is done by the student before the session. This gives time for reflection and understanding of the concepts such that they can be applied to solve the problem sets that come up in the session. The instructor will not conduct a comprehensive overview of the materials during the session, instead they will concentrate on issues arising in the application of the concepts. If you have not done the reading before the session then you will be behind from the start of the session and you will miss out on the opportunity. Learning from this style is requires you to lead and take responsibility for the learning before class and to work to apply the theoretical knowledge in the practical session.\n\n\nOnline tutorial\nThe most traditional style of session will be the online tutorial in which you will work through an online guide with embedded quizzes and questions on a particular topic. The materials will be provided in the session. Learning from this style of session requires you to be thinking through the questions and reasoning to work out the answers with the materials provided.",
+    "crumbs": [
+      "How To Use These Courses"
+    ]
+  },
+  {
+    "objectID": "flippedclass.html#note-taking",
+    "href": "flippedclass.html#note-taking",
+    "title": "How To Use These Courses",
+    "section": "Note-taking",
+    "text": "Note-taking\nThe website of the course is connected to the online note-taking system hypothes.is. If you have an account there and are logged in you’ll be able to add highlights, notes and comments that you will see in the web page itself. You can also make and join groups to share notes.",
+    "crumbs": [
+      "How To Use These Courses"
+    ]
+  },
+  {
+    "objectID": "flippedclass.html#jonk",
+    "href": "flippedclass.html#jonk",
+    "title": "How To Use These Courses",
+    "section": "JONK",
+    "text": "JONK\nFor all learning you should embrace JONK - ‘Joy of Not Knowing’ (Staricoff 2020). Although you are at least a Post-Grad there are still a lot of things and skills to learn and you will spend a lot of time confused. This is fine. And expected, and a necessary part of learning - if it was easy you wouldn’t be learning anything. Over and over again you’ll fall into the metaphorical ‘Learning Pit’ (Nottingham 2015) and through working at a problem sincerely with a view to understanding you’ll reach real success - a good understanding of the topics you are learning about.\n\n\n\n\n\nArtwork from James Nottingham - https://www.challenginglearning.com\n\n\n\n\n\nThe dark side\nLots of people want to use data science and statistics so lots of other people publish blog posts and tutorials on those topics on the internet. A quick google will lead you to how-to’s in briefer and shallower form than this course. Be wary of taking these as an answer, although they aren’t wrong per se, the useful and particular ways of thinking about data science that this course is aimed at helping you understand are not so often developed in the quick online tutorials. They can help you with an immediate coding problem, it can take a very long time to develop broad and flexible understanding of data science through just looking stuff up on the internet and applying them until they seem to work. This dark side is quick, easy and seductive but won’t bring you a good understanding. Take your time and work through the details and you’ll emerge with a much more adaptable and applicable set of skills.",
+    "crumbs": [
+      "How To Use These Courses"
+    ]
+  },
+  {
+    "objectID": "flippedclass.html#references",
+    "href": "flippedclass.html#references",
+    "title": "How To Use These Courses",
+    "section": "References",
+    "text": "References\n\n\n\n\nNottingham, James A. 2015. Challenging Learning. Routledge.\n\n\nStaricoff, Marcelo. 2020. The Joy of Not Knowing. Routledge.",
+    "crumbs": [
+      "How To Use These Courses"
+    ]
+  },
+  {
+    "objectID": "topics.html",
+    "href": "topics.html",
+    "title": "Topics",
+    "section": "",
+    "text": "Which should I choose??\nThe topics we offer are selected to be of the most use to you practically in your research at TSL careers.\nThe selection ranges from getting to grips with the command line to getting practice in data science topics and\nIf you want to get started with command line to use the HPC or use the range of bioinformatics software then definitely look at the Intro to Command Line course. Otherwise the Data Exploration and Visualisation will be of great help in your day-to-day data analysis (especially that which comes out of command line programs). The fundamental topic is the Understanding Statistics with Linear Models which helps to show the linking thread between the statistical tools used in many data science and bioinformatics applications. The wider courses like Non-Frequentist Statistics and Machine Learning are excellent extensions that really power up the tool boxes and will let you get clearly at tricky data and big data sets.\nThey’re all available all the time and the team are happy to discuss any aspect of them whenever, so feel free to try any and all.",
+    "crumbs": [
+      "Topics"
+    ]
+  },
+  {
+    "objectID": "genomics.html",
+    "href": "genomics.html",
+    "title": "1  Introduction to Command Line",
+    "section": "",
+    "text": "1.1 The materials\nGetting started with using a command line (or ‘shell’) is the fundamental step in bioinformatics. This interface is the ‘real’ interface to a computer and lets you work massively more efficiently and on very big scales. It is also the only way to use the large HPC cluster and the many bioinformatics programs on there. So you’re going to need this skill.\nThis topic comprises the following courses. You may recognise some of it, as the first part follows the excellent Data Carpentry Shell Genomics Curriculum https://datacarpentry.org/lessons/#genomics-workshop",
+    "crumbs": [
+      "Topics",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Command Line</span>"
+    ]
+  },
+  {
+    "objectID": "genomics.html#the-materials",
+    "href": "genomics.html#the-materials",
+    "title": "1  Introduction to Command Line",
+    "section": "",
+    "text": "Shell Genomics\nData Wrangling and Processing for Genomics\nIntroduction to Installing HPC Software with Singularity",
+    "crumbs": [
+      "Topics",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Command Line</span>"
+    ]
+  },
+  {
+    "objectID": "genomics.html#delivery",
+    "href": "genomics.html#delivery",
+    "title": "1  Introduction to Command Line",
+    "section": "1.2 Delivery",
+    "text": "1.2 Delivery\nAs these topics are the first that people generally need to do we deliver them as instructor-led bootcamps. It is however always useful to read the materials provided before the course",
+    "crumbs": [
+      "Topics",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Command Line</span>"
+    ]
+  },
+  {
+    "objectID": "genomics.html#timetable",
+    "href": "genomics.html#timetable",
+    "title": "1  Introduction to Command Line",
+    "section": "1.3 Timetable",
+    "text": "1.3 Timetable\nMuch of this is done on-demand, so if a course session isn’t listed in a timeframe that you’re comfortable with then contact Clara Jégousse or George Deeks for information. In many instances we’ll be able to sort a session soon.",
+    "crumbs": [
+      "Topics",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Command Line</span>"
+    ]
+  },
+  {
+    "objectID": "onlinedatabases.html",
+    "href": "onlinedatabases.html",
+    "title": "2  Online Databases",
+    "section": "",
+    "text": "There are a great number of excellent online resources in genomics, transcriptomics and structual biology. However, some of them can be a bit opaque to use. This self-led online tutorial will lead you through the fundamentals of using some of the most powerful - but confusing instances.\n\nGenome, Transcriptome and Structural Databases",
+    "crumbs": [
+      "Topics",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Online Databases</span>"
+    ]
+  },
+  {
+    "objectID": "dataviz.html",
+    "href": "dataviz.html",
+    "title": "3  Data Exploration and Visualisation",
+    "section": "",
+    "text": "3.1 The materials\nData exploration and visualisation is the first step in most analyses and the R statistical computing environment is a great tool to work with.\nIn this topic we will explore techniques in R that allow us answer research questions of our data in a way that follows consistent and straightforward principles. We will learn a data format for keeping our research data organised so that we can readily apply all sorts of useful tools to it. We will also learn a grammar of plots that will allow us to make informative and clear figures. By the end of this you will be comfortable with using R to summarise and work with data frames and create a wide range of plots.\nFor this topic we will use these courses",
+    "crumbs": [
+      "Topics",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Data Exploration and Visualisation</span>"
+    ]
+  },
+  {
+    "objectID": "dataviz.html#the-materials",
+    "href": "dataviz.html#the-materials",
+    "title": "3  Data Exploration and Visualisation",
+    "section": "",
+    "text": "Using dplyr for data analysis\nUsing ggplot2 for producing quality plots",
+    "crumbs": [
+      "Topics",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Data Exploration and Visualisation</span>"
+    ]
+  },
+  {
+    "objectID": "dataviz.html#for-you-to-do",
+    "href": "dataviz.html#for-you-to-do",
+    "title": "3  Data Exploration and Visualisation",
+    "section": "3.2 For you to do",
+    "text": "3.2 For you to do\nThese topics will be delivered flipped classroom-style. That means they are led by you and you have the responsibility for doing the reading prior to coming to the session. You will absolutely need to devote time and work through the materials on your own and bring any questions and queries that you have to the scheduled session for the topics.",
+    "crumbs": [
+      "Topics",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Data Exploration and Visualisation</span>"
+    ]
+  },
+  {
+    "objectID": "stats.html",
+    "href": "stats.html",
+    "title": "4  Understanding Statistics With Linear Models",
+    "section": "",
+    "text": "4.1 The materials\nIn this topic we will take a look at common statistical methods. Rather than launch into a long list of tests and conditions for use we will take advantage of the fact that they are all special cases of a simple tool called a linear model. We will learn about linear models and how to use them to carry out statistical inference. By the end of this topic you will have a clear understanding of how and why to use a linear model in R to carry out most tests and comparisons.\nFor this topic we will use this course",
+    "crumbs": [
+      "Topics",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Understanding Statistics With Linear Models</span>"
+    ]
+  },
+  {
+    "objectID": "stats.html#the-materials",
+    "href": "stats.html#the-materials",
+    "title": "4  Understanding Statistics With Linear Models",
+    "section": "",
+    "text": "Understanding Statistical Thinking With Linear Models",
+    "crumbs": [
+      "Topics",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Understanding Statistics With Linear Models</span>"
+    ]
+  },
+  {
+    "objectID": "stats.html#for-you-to-do",
+    "href": "stats.html#for-you-to-do",
+    "title": "4  Understanding Statistics With Linear Models",
+    "section": "4.2 For you to do",
+    "text": "4.2 For you to do\nThese topics will be delivered flipped classroom-style. That means they are led by you and you have the responsibility for doing the reading prior to coming to the session. You will absolutely need to devote time and work through the materials on your own and bring any questions and queries that you have to the scheduled session for the topics.",
+    "crumbs": [
+      "Topics",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Understanding Statistics With Linear Models</span>"
+    ]
+  },
+  {
+    "objectID": "nonfreq.html",
+    "href": "nonfreq.html",
+    "title": "5  Introduction to Non-Frequentist Statistics",
+    "section": "",
+    "text": "5.1 The materials\nIn this topic we will take a look at alternatives to the standard statistical testing tools and models and learn how to make inferences from our data without tests. We will learn to abandon the \\(p\\)-value as a final arbiter of decision making and see that it is not the only statistic that matters. We will look at using Bayesian inference to make comparisons of hypotheses about our data. By the end of this course you will be able to use and interpret standardised effect sizes and create confidence intervals and estimation plots in R. You will be able to use and interpret Bayesian versions of some common statistical tests\nFor this topic we will use these courses",
+    "crumbs": [
+      "Topics",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Introduction to Non-Frequentist Statistics</span>"
+    ]
+  },
+  {
+    "objectID": "nonfreq.html#the-materials",
+    "href": "nonfreq.html#the-materials",
+    "title": "5  Introduction to Non-Frequentist Statistics",
+    "section": "",
+    "text": "Estimation Statistics\nBayesian Inference with Bayes Factors",
+    "crumbs": [
+      "Topics",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Introduction to Non-Frequentist Statistics</span>"
+    ]
+  },
+  {
+    "objectID": "nonfreq.html#for-you-to-do",
+    "href": "nonfreq.html#for-you-to-do",
+    "title": "5  Introduction to Non-Frequentist Statistics",
+    "section": "5.2 For you to do",
+    "text": "5.2 For you to do\nThese topics will be delivered flipped classroom-style. That means they are led by you and you have the responsibility for doing the reading prior to coming to the session. You will absolutely need to devote time and work through the materials on your own and bring any questions and queries that you have to the scheduled session for the topics.",
+    "crumbs": [
+      "Topics",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Introduction to Non-Frequentist Statistics</span>"
+    ]
+  },
+  {
+    "objectID": "ml.html",
+    "href": "ml.html",
+    "title": "6  Introduction to Machine Learning",
+    "section": "",
+    "text": "6.1 The materials\nIn this topic we will look at algorithms for performing machine learning as a way of classifying data into groups of similar or dissimilar items. We will use supervised and unsupervised methods in R. We will also study and use some deep learning methods. By the end of this course you will have an understanding of how and when to use classical machine learning in your research and an appreciation of what deep learning methods can achieve and their limitations.\nFor this topic we will use these courses",
+    "crumbs": [
+      "Topics",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Introduction to Machine Learning</span>"
+    ]
+  },
+  {
+    "objectID": "ml.html#the-materials",
+    "href": "ml.html#the-materials",
+    "title": "6  Introduction to Machine Learning",
+    "section": "",
+    "text": "Introduction to Machine Learning",
+    "crumbs": [
+      "Topics",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Introduction to Machine Learning</span>"
+    ]
+  },
+  {
+    "objectID": "ml.html#for-you-to-do",
+    "href": "ml.html#for-you-to-do",
+    "title": "6  Introduction to Machine Learning",
+    "section": "6.2 For you to do",
+    "text": "6.2 For you to do\nThese topics will be delivered flipped classroom-style. That means they are led by you and you have the responsibility for doing the reading prior to coming to the session. You will absolutely need to devote time and work through the materials on your own and bring any questions and queries that you have to the scheduled session for the topics.",
+    "crumbs": [
+      "Topics",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Introduction to Machine Learning</span>"
+    ]
+  },
+  {
+    "objectID": "python.html",
+    "href": "python.html",
+    "title": "7  Beginning Programming",
+    "section": "",
+    "text": "7.1 The materials\nProgramming is an essential but tricky tool to master for all data scientists. Code comes in many guises and in this course up to now we’ve been writing code for specific tasks with a clear and present idea of what we want to get done. General programming concepts often seem less useful because of their generality, so in this topic we will study the general concepts that will allow us to program in most problem domains. We will introduce the central concepts of programming and learn to use the implementations of them in the Python general purpose programming language. At the end of this topic you will be aware of the most important concepts in programming and how to use them in Python.\nFor this topic we will use these courses",
+    "crumbs": [
+      "Topics",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Beginning Programming</span>"
+    ]
+  },
+  {
+    "objectID": "python.html#the-materials",
+    "href": "python.html#the-materials",
+    "title": "7  Beginning Programming",
+    "section": "",
+    "text": "A tao of programming\nBeginning programming with Python",
+    "crumbs": [
+      "Topics",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Beginning Programming</span>"
+    ]
+  },
+  {
+    "objectID": "python.html#for-you-to-do",
+    "href": "python.html#for-you-to-do",
+    "title": "7  Beginning Programming",
+    "section": "7.2 For you to do",
+    "text": "7.2 For you to do\nPart 1 (A tao of programming) will be delivered as a full contact instructor led-session. You should come to the scheduled session.\nPart 2 (Beginning programming with Python) will be delivered flipped classroom-style. That means it is led by you and you have the responsibility for doing the reading prior to coming to the session. You will absolutely need to devote time and work through the materials on your own and bring any questions and queries that you have to the scheduled session for the topics.",
+    "crumbs": [
+      "Topics",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Beginning Programming</span>"
+    ]
+  },
+  {
+    "objectID": "literacy.html",
+    "href": "literacy.html",
+    "title": "8  Literate Computation",
+    "section": "",
+    "text": "8.1 The materials\nSitting at a computer and typing commands is only of limited fun. Wrapping commands in scripts is a great way to re-do an analysis without having to type everything in again. But scripts are for computers to read, not humans, so understanding and interpreting an analysis rendered as code alone is not good for general understanding. In this course we’ll look at tools and techniques for Literate Computation, a mixing of code, results and human language that results in easily understood executable and re-useable analysis documents. We will also look at tools and strategies for sharing and getting credit for your code and analysis. At the end of this topic you will have a good understanding of how to construct reproducible, reusable and readable analysis documents and how to share them online.\nFor this topic we will use this course:",
+    "crumbs": [
+      "Topics",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Literate Computation</span>"
+    ]
+  },
+  {
+    "objectID": "literacy.html#the-materials",
+    "href": "literacy.html#the-materials",
+    "title": "8  Literate Computation",
+    "section": "",
+    "text": "Literate Computing",
+    "crumbs": [
+      "Topics",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Literate Computation</span>"
+    ]
+  },
+  {
+    "objectID": "literacy.html#for-you-to-do",
+    "href": "literacy.html#for-you-to-do",
+    "title": "8  Literate Computation",
+    "section": "8.2 For you to do",
+    "text": "8.2 For you to do\nThese topics will be delivered flipped classroom-style. That means they are led by you and you have the responsibility for doing the reading prior to coming to the session. You will absolutely need to devote time and work through the materials on your own and bring any questions and queries that you have to the scheduled session for the topics.",
+    "crumbs": [
+      "Topics",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Literate Computation</span>"
+    ]
   }
 ]
